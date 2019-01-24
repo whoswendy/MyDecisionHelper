@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyDecisionHelper</string>
+
+    <string name="need_help">Need Help Making A Decision? Click Me</string>
+
+    <string name="instructions">Enter below in the text box all of your possible choices,
+        each separated by clicking enter.</string>
+
+    <string name="make_decision">Make A Decision</string>
 </resources>
